@@ -3,4 +3,5 @@
 Взяти кожну пісню з файлу s.txt і вивести посилання YouTube на неї в інший файл
 > Зробив через Selenium оскільки контент на YouTube - динамічний
 
-Для встановлення бібліотек 'pip install -r requirements.txt`
+Для встановлення бібліотек:  
+`pip install -r requirements.txt`
